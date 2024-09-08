@@ -1,0 +1,2 @@
+datetime,symbol,bid_vol,bid_price,ask_price,ask_vol,mid_price,spread,order_imbalance,bid_vwap,ask_vwap,top_bid_depth,top_ask_depth
+240907_20:08:17,BTC/USD,27.938,54261.9,54262.0,0.022,54261.95,0.09999999999854481,0.9984263233190273,54210.76898604222,54316.84633416515,130.035,90.56599999999999
