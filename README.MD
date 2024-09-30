@@ -2,7 +2,7 @@
 
 ## Overview
 
-** CCTX (CryptoCurrcency eXchange Trading Library) ** is an open-source Python-based library designed for cryptocurrency trading and market data retrieval. This repository provides a foundational framework to fetch real-time order book data for Market Makers, calculate important trading metrics, and assess risk using Options Greeks (in progress).
+**CCTX (CryptoCurrcency eXchange Trading Library)** is an open-source Python-based library designed for cryptocurrency trading and market data retrieval. This repository provides a foundational framework to fetch real-time order book data for Market Makers, calculate important trading metrics, and assess risk using Options Greeks (in progress).
 
 In this example, I utilized the **Kraken** cryptocurrency exchange, though it can be easily adapted for other exchanges by changing a few configuration settings.
 
